@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'helper/reouter.dart';
 
 
-
+//main
 void main() {
   runApp( MyApp(approuter: Approuter()));
 }
